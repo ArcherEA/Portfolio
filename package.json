@@ -1,7 +1,7 @@
 {
   "name": "portfolioweb",
   "private": true,
-  "homepage": "https://ArcherEA.github.io/portfolio/",
+  "homepage": "https://ArcherEA.github.io/Portfolio/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
