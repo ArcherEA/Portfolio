@@ -9,5 +9,6 @@ export default defineConfig({
   server: {
     allowedHosts: [
       'yukuan.dpdns.org'
-    ],
+    ]
+  }
 });
